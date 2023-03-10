@@ -3,6 +3,7 @@
 ***Before beginning, ensure that you have SSH Gateway access established and API Credentials and Access enabled***
 
 https://wpengine.com/support/ssh-gateway/
+
 https://wpengine.com/support/enabling-wp-engine-api/
 
 Contained within this folder are four scripts designed to initiate bulk backups, bulk plugin installation, mass password reset, and bulk WordPress Core verify checksums.
